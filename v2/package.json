@@ -11,7 +11,7 @@
     "babel-plugin-fbt-runtime": "^0.9.12",
     "babel-plugin-import-glob": "^2.0.0",
     "babel-preset-gatsby": "^0.5.14",
-    "bootstrap": "^4.5.3",
+    "bootstrap": "^5.0.1",
     "fb-tiger-hash": "^0.1.6",
     "fbt": "^0.15.0",
     "gatsby": "^5.14.1",
